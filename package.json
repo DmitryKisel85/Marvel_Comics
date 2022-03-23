@@ -9,6 +9,8 @@
 		"prop-types": "^15.8.1",
 		"react": "latest",
 		"react-dom": "latest",
+		"react-router": "^5.2.1",
+		"react-router-dom": "^6.2.2",
 		"react-scripts": "latest",
 		"web-vitals": "latest"
 	},
